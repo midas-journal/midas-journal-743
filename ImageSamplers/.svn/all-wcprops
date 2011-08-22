@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/sklein/!svn/ver/83/ijsamplers/Source/ImageSamplers
+END
+itkImageToVectorContainerFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/sklein/!svn/ver/83/ijsamplers/Source/ImageSamplers/itkImageToVectorContainerFilter.h
+END
+itkVectorContainerSource.txx
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/sklein/!svn/ver/83/ijsamplers/Source/ImageSamplers/itkVectorContainerSource.txx
+END
+itkImageSample.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/sklein/!svn/ver/83/ijsamplers/Source/ImageSamplers/itkImageSample.h
+END
+itkImageFullSampler.txx
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/sklein/!svn/ver/83/ijsamplers/Source/ImageSamplers/itkImageFullSampler.txx
+END
+itkVectorContainerSource.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/sklein/!svn/ver/83/ijsamplers/Source/ImageSamplers/itkVectorContainerSource.h
+END
+itkImageFullSampler.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/sklein/!svn/ver/83/ijsamplers/Source/ImageSamplers/itkImageFullSampler.h
+END
+itkVectorDataContainer.txx
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/sklein/!svn/ver/83/ijsamplers/Source/ImageSamplers/itkVectorDataContainer.txx
+END
+itkImageRandomSamplerSparseMask.txx
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/sklein/!svn/ver/83/ijsamplers/Source/ImageSamplers/itkImageRandomSamplerSparseMask.txx
+END
+itkImageSamplerBase.txx
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/sklein/!svn/ver/83/ijsamplers/Source/ImageSamplers/itkImageSamplerBase.txx
+END
+itkVectorDataContainer.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/sklein/!svn/ver/83/ijsamplers/Source/ImageSamplers/itkVectorDataContainer.h
+END
+itkImageRandomSamplerSparseMask.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/sklein/!svn/ver/83/ijsamplers/Source/ImageSamplers/itkImageRandomSamplerSparseMask.h
+END
+itkImageSamplerBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/sklein/!svn/ver/83/ijsamplers/Source/ImageSamplers/itkImageSamplerBase.h
+END
+itkImageRandomSamplerBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/sklein/!svn/ver/83/ijsamplers/Source/ImageSamplers/itkImageRandomSamplerBase.h
+END
+itkImageRandomSampler.txx
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/sklein/!svn/ver/83/ijsamplers/Source/ImageSamplers/itkImageRandomSampler.txx
+END
+itkImageRandomSampler.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/sklein/!svn/ver/83/ijsamplers/Source/ImageSamplers/itkImageRandomSampler.h
+END
+itkImageGridSampler.txx
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/sklein/!svn/ver/83/ijsamplers/Source/ImageSamplers/itkImageGridSampler.txx
+END
+itkImageRandomCoordinateSampler.txx
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/sklein/!svn/ver/83/ijsamplers/Source/ImageSamplers/itkImageRandomCoordinateSampler.txx
+END
+itkImageGridSampler.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/sklein/!svn/ver/83/ijsamplers/Source/ImageSamplers/itkImageGridSampler.h
+END
+itkImageToVectorContainerFilter.txx
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/sklein/!svn/ver/83/ijsamplers/Source/ImageSamplers/itkImageToVectorContainerFilter.txx
+END
+itkImageRandomCoordinateSampler.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/sklein/!svn/ver/83/ijsamplers/Source/ImageSamplers/itkImageRandomCoordinateSampler.h
+END
